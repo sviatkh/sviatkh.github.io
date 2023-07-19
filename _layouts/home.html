@@ -2,5 +2,6 @@
 layout: archive
 ---
 
-{{ about_2.content }}
-
+{{ content }}
+{% assign about_page = site.pages | where: "name", "about_2" | first %}
+{{ about_page.content }}
