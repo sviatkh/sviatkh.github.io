@@ -118,13 +118,13 @@ author:
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/SviatykKharuk"
+      url: SviatykKharuk
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: "https://facebook.com/sviat.kharuk"
+      url: sviat.kharuk
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/sviatkh"
+      url: sviatkh
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
