@@ -6,8 +6,6 @@ author_profile: true
 
 {% include toc %}
 
-{% include base_path %}
-
 Education
 ======
 * B.S. in GitHub, GitHub University, 2012
