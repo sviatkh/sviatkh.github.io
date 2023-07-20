@@ -18,7 +18,7 @@ My name is Sviatoslav Kharuk I'm a biochemist with a profound love of bioinforma
 
 I recently completed my Bachelor's in Biochemistry from Vasyl Stefanyk Precarpathian National University of Ukraine. Throughout my undergraduate studies, I specialized in molecular biology and gained a comprehensive understanding of biochemical processes.
 
-During my time at university, I was fortunate to receive two scholarships, one personal from the Believe in Yourself Foundation and the other from the Institute of Eastern European Studies for academic excellence and active scientific research.
+During my time at university, I was fortunate to receive two scholarships, one personal from the [Believe in Yourself Foundation](https://pnu.edu.ua/en/blog/2021/10/17/33376/) and the other from the [Institute of Eastern European Studies](https://pnu.edu.ua/blog/2023/07/20/49054/) for academic excellence and active scientific research.
 
 Additionally, throughout the studies, I was doing two research projects focused on how starvation in the early stages of drosophila development impacts imago metabolism and a diploma project concerning the investigation of the intranasal administration of peptides to the mouse brain.
 
