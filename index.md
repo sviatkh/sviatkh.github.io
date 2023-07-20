@@ -1,5 +1,4 @@
 ---
-permalink: /about_2/
 layout: single
 title: "About the author"
 comments: false
