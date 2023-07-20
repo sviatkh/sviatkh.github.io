@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "About the author"
+excerpt: false
 comments: false
 author_profile: true
 header:
