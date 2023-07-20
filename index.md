@@ -10,7 +10,18 @@ header:
 ---
 {% include toc %}
 
-## Shorter than never
-freferfefrefe
-dflkjdfb;bd
-fvddfjgvhvdfiogrgoi;erugeri;oejrf
+# Who am I?
+
+My name is Sviatoslav Kharuk I'm a biochemist with a profound love of bioinformatics. I'm always eager to learn new things and gain skills.  
+
+# Short bio 
+
+I recently completed my Bachalor's in Biochemistry in Vasyl Stefanyk Precarpathian National University of Ukraine.
+
+# My Background
+
+# My scientific interests
+
+# Research
+
+# Publications/Thesis
