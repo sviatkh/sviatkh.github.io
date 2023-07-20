@@ -21,7 +21,7 @@ title_separator          : " | "
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Sviatoslav Kharuk"
 description              : "My online home)"
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : 2# the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -111,20 +111,20 @@ author:
   email            :
   links:
     - label: "Email"
-      icon: "fas fa-fw fa-envelope-square"
+      icon: sviatoslavkharuk@gmail.com
       # url: "mailto:your.name@email.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: SviatykKharuk
+      url: https://twitter.com/SviatykKharuk
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
-      url: sviat.kharuk
+      url: https://www.facebook.com/sviat.kharuk
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: sviatkh
+      url: https://github.com/sviatkh
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
