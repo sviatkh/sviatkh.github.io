@@ -28,7 +28,7 @@ Moreover, I developed strong analytical and problem-solving skills, which proved
 
 My education has fueled my passion for scientific exploration, and I am eager to contribute my knowledge and skills to the field of biomedical research. I started to be interested in bioinformatics in my 2nd year of studies. I was attending a university bioinformatics course, an internship at Universitätsklinikum Münster, a [Bioinformatics course from DAAD](http://lifesciencescourse.org/en/bioinformatics-course) and the last and most meaningful was the [Biological Data Science Summer School](https://www.bds3.org/). My main bioinformatics interests are genomics, transcriptomics, and metabolomics.
 
-Also, I have completed *Data Analysis* Workshop and on the final project I was doing data cleaning, visualization and data analysis. [Google Collab notebook](https://colab.research.google.com/drive/1yp_4LjPw04aOXt08hlSHtHLHhCa2B1FI?usp=drive_open#scrollTo=yKvYEzkoUU67) for final project.
+Also, I have completed **Data Analysis Workshop** and on the final project I was doing data cleaning, visualization and data analysis. [Google Collab notebook](https://colab.research.google.com/drive/1yp_4LjPw04aOXt08hlSHtHLHhCa2B1FI?usp=drive_open#scrollTo=yKvYEzkoUU67) for final project.
 
 I am currently exploring opportunities to do an internship in Bioinformatics.
 
