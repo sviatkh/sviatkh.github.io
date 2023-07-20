@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Sviatoslav Kharuk"
   avatar           : /images/sviat.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Biochemist, pasionate about bioinformatics."
+  bio              : "Biochemist, passionate about bioinformatics."
   location         : "Ukraine"
   email            :
   links:
