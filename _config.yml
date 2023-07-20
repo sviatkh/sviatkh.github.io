@@ -108,7 +108,7 @@ author:
   avatar           : /images/sviat.jpg # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Biochemist, passionate about bioinformatics."
   location         : "Ukraine"
-  email            :
+  email            : sviatoslavkharuk@gmail.com
   links:
     - label: "Email"
       icon: sviatoslavkharuk@gmail.com
