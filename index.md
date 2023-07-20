@@ -22,7 +22,7 @@ During my time at university, I was fortunate to receive two scholarships, one p
 
 Additionally, throughout the studies, I was doing two research projects focused on how starvation in the early stages of drosophila development impacts imago metabolism and a diploma project concerning the investigation of the intranasal administration of peptides to the mouse brain.
 
-During my BSc program, I gained laboratory techniques including measuring metabolites, DNA extraction, DNA electrophoresis, PCR and Western Blot.
+During my BSc program, I gained laboratory techniques including measuring metabolites, fluorescence spectroscopy, DNA extraction, DNA electrophoresis, PCR and Western Blot.
 
 Moreover, I developed strong analytical and problem-solving skills, which proved invaluable during my research projects.
 
@@ -50,6 +50,8 @@ Some conclusions from the study:
 - The efficiency of peptide delivery decreases with the concentration of the injected peptide, which makes it impractical to use solutions in concentrations above 100 μM.
 
 [Published thesis on this work (p. 19)](https://drive.google.com/drive/folders/1zSfoxwqkojo2uIWGn1w2Co5NgPunDLce)
+
+To make easier writing disscusion for diploma I wrote a [code](https://github.com/sviatkh/bioinformatics/blob/main/protein%20properties%20for%20Diploma) which calculates the amino acids composition of peptides.   
 
 ## Publications/Thesis
 Kharuk S., Shturmak A. *Study of intranasal delivery of peptides to the brain of mice (in Ukrainian)*. [92nd Scientific and Practical Conference of Students and Young Scientists with International Participation "Innovations in medicine and pharmacy", p. 19.](https://drive.google.com/drive/folders/1zSfoxwqkojo2uIWGn1w2Co5NgPunDLce) (March, 2023)
