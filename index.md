@@ -39,7 +39,7 @@ I am currently exploring opportunities to do an internship in Bioinformatics.
 
 The aim of this study was to investigate the effect of starvation in the early stages of development on some physiological and biochemical parameters in flies that were starved for certain periods of time at the third larval stage (L3). 
 
-Some publications about this work [first](https://biotechnology.kiev.ua/index.php/en/journal-archive-en/2023-en/2023-no2-en/starvation-during-development-affects-metabolism-in-drosophila-n-p-stefanyshyn-o-m-strilbytska-u-v-semaniuk-n-i-burdyliuk-s-v-kharuk?highlight=WyJraGFydWsiXQ==) and [second, p. 30](https://kbb.pnu.edu.ua/wp-content/uploads/sites/28/2023/06/0032-abstract-book-degb-2023.pdf)
+Some publications about this work [first](https://biotechnology.kiev.ua/index.php/en/journal-archive-en/2023-en/2023-no2-en/starvation-during-development-affects-metabolism-in-drosophila-n-p-stefanyshyn-o-m-strilbytska-u-v-semaniuk-n-i-burdyliuk-s-v-kharuk?highlight=WyJraGFydWsiXQ==) and [second, p. 30](https://kbb.pnu.edu.ua/wp-content/uploads/sites/28/2023/06/0032-abstract-book-degb-2023.pdf).
 
 ### Diploma project 
 **Effect of peptides amino acid sequence on the efficiency of intranasal delivery to the mouse brain.**
@@ -51,16 +51,18 @@ Some conclusions from the study:
 
 - The efficiency of peptide delivery decreases with the concentration of the injected peptide, which makes it impractical to use solutions in concentrations above 100 μM.
 
-[Published thesis on this work (p. 19)](https://drive.google.com/drive/folders/1zSfoxwqkojo2uIWGn1w2Co5NgPunDLce)
+[Published thesis on this work (p. 19)](https://drive.google.com/drive/folders/1zSfoxwqkojo2uIWGn1w2Co5NgPunDLce).
 
 To make easier writing disscusion for diploma I wrote a [code](https://github.com/sviatkh/bioinformatics/blob/main/protein%20properties%20for%20Diploma) which calculates the amino acids composition of peptides.   
 
 ## Publications/Thesis
-Kharuk S., Shturmak A. *Study of intranasal delivery of peptides to the brain of mice (in Ukrainian)*. [92nd Scientific and Practical Conference of Students and Young Scientists with International Participation "Innovations in medicine and pharmacy", p. 19.](https://drive.google.com/drive/folders/1zSfoxwqkojo2uIWGn1w2Co5NgPunDLce) (March, 2023)
+Kharuk S., Shturmak A. *Study of intranasal delivery of peptides to the brain of mice (in Ukrainian)*. [92nd Scientific and Practical Conference of Students and Young Scientists with International Participation "Innovations in medicine and pharmacy", p. 19.](https://drive.google.com/drive/folders/1zSfoxwqkojo2uIWGn1w2Co5NgPunDLce) (March, 2023).
 
 Stefanyshyn N. P., Strilbytska O. M., Semaniuk, U.V., Burdyliuk N. I., Kharuk S. V. *Starvation during development affects metabolism in Drosophila*. BIOTECHNOLOGIA ACTA, V. 16, No 2, (2023)
-[https://doi.org/10.15407/biotech16.02.044](https://doi.org/10.15407/biotech16.02.044)
+[https://doi.org/10.15407/biotech16.02.044](https://doi.org/10.15407/biotech16.02.044).
 
-Stefanyshyn N., Strilbytska O., Kharuk S., Berezovskyi V. *Starvation of third instar larvae affects content of stored metabolites in adult Drosophila*, [The international conference “Drosophila in experimental genetics and biology”, p. 30]((https://kbb.pnu.edu.ua/wp-content/uploads/sites/28/2023/06/0032-abstract-book-degb-2023.pdf)) (June, 2023)
+Stefanyshyn N., Strilbytska O., Kharuk S., Berezovskyi V. *Starvation of third instar larvae affects content of stored metabolites in adult Drosophila*, [The international conference “Drosophila in experimental genetics and biology”, p. 30]((https://kbb.pnu.edu.ua/wp-content/uploads/sites/28/2023/06/0032-abstract-book-degb-2023.pdf)) (June, 2023).
+
+For more detailed information visit my [CV](https://sviatkh.github.io/cv/) section.
 
 
