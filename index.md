@@ -57,15 +57,16 @@ Poster for this thesis:
 <embed src="https://sviatkh.github.io/assets/Poster_Khrauk.pdf" type="application/pdf" width="100%" />
 
 
+
 To make easier writing disscusion for diploma I wrote a [code](https://github.com/sviatkh/bioinformatics/blob/main/protein%20properties%20for%20Diploma) which calculates the amino acids composition of peptides.
 
 For my first programming project, I've decided based on the previous code to create an app ([AminoAcidsCounter](https://aminoacidcounter.streamlit.app/)) which calculates amino acids and then plots the graph using Python's [Streamlit library](https://streamlit.io/).
 
 The preview of the app: 
-To run the app click on https://aminoacidcounter.streamlit.app/
+
 ![My app AminoAcidCounter](/images/AA_counter.png){:class="img-responsive"}
 
-To run the app click on [https://aminoacidcounter.streamlit.app/]
+To run the app click on [https://aminoacidcounter.streamlit.app/](https://aminoacidcounter.streamlit.app/)
 
 
 
