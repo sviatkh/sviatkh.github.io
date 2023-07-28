@@ -30,7 +30,7 @@ My education has fueled my passion for scientific exploration, and I am eager to
 
 Also, I have completed **Data Analysis Workshop** and on the final project I was doing data cleaning, visualization and data analysis. [Google Collab notebook](https://colab.research.google.com/drive/1yp_4LjPw04aOXt08hlSHtHLHhCa2B1FI?usp=drive_open#scrollTo=yKvYEzkoUU67) for final project.
 
-I am currently exploring opportunities to do an internship in Bioinformatics.
+I am actively seeking internship/job opportunities in Bioinformatics.
 
 ## Research
 
