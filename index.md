@@ -53,7 +53,10 @@ Some conclusions from the study:
 
 [Published thesis on this work (p. 19)](https://drive.google.com/drive/folders/1zSfoxwqkojo2uIWGn1w2Co5NgPunDLce).
 
-To make easier writing disscusion for diploma I wrote a [code](https://github.com/sviatkh/bioinformatics/blob/main/protein%20properties%20for%20Diploma) which calculates the amino acids composition of peptides.   
+To make easier writing disscusion for diploma I wrote a [code](https://github.com/sviatkh/bioinformatics/blob/main/protein%20properties%20for%20Diploma) which calculates the amino acids composition of peptides.
+
+For my first programming project, I've decided based on the previous code to create an app that calculates amino acids and then plots the graph using Python's [Streamlit library](https://streamlit.io/).
+/images/AA_counter.png
 
 ## Publications/Thesis
 Kharuk S., Shturmak A. *Study of intranasal delivery of peptides to the brain of mice (in Ukrainian)*. [92nd Scientific and Practical Conference of Students and Young Scientists with International Participation "Innovations in medicine and pharmacy", p. 19.](https://drive.google.com/drive/folders/1zSfoxwqkojo2uIWGn1w2Co5NgPunDLce) (March, 2023).
