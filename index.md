@@ -54,7 +54,7 @@ Some conclusions from the study:
 [Published thesis on this work (p. 19)](https://drive.google.com/drive/folders/1zSfoxwqkojo2uIWGn1w2Co5NgPunDLce).
 
 Poster for this thesis:
-<embed src="https://sviatkh.github.io/assets/Poster_Kharuk.pdf" type="application/pdf" width="100%" />
+<embed src="https://sviatkh.github.io/assets/Poster_Khrauk.pdf" type="application/pdf" width="100%" />
 
 To make easier writing disscusion for diploma I wrote a [code](https://github.com/sviatkh/bioinformatics/blob/main/protein%20properties%20for%20Diploma) which calculates the amino acids composition of peptides.
 
