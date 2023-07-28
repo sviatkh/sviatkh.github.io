@@ -53,9 +53,14 @@ Some conclusions from the study:
 
 [Published thesis on this work (p. 19)](https://drive.google.com/drive/folders/1zSfoxwqkojo2uIWGn1w2Co5NgPunDLce).
 
+Poster for this thesis:
+<embed src="https://sviatkh.github.io/assets/Poster_Kharuk.pdf" type="application/pdf" width="100%" />
+
 To make easier writing disscusion for diploma I wrote a [code](https://github.com/sviatkh/bioinformatics/blob/main/protein%20properties%20for%20Diploma) which calculates the amino acids composition of peptides.
 
-For my first programming project, I've decided based on the previous code to create an app that calculates amino acids and then plots the graph using Python's [Streamlit library](https://streamlit.io/).
+For my first programming project, I've decided based on the previous code to create an app ([AminoAcidsCounter](https://aminoacidcounter.streamlit.app/))that calculates amino acids and then plots the graph using Python's [Streamlit library](https://streamlit.io/).
+The preview of the app: 
+To run the app click on https://aminoacidcounter.streamlit.app/
 ![My app AminoAcidCounter](/images/AA_counter.png){:class="img-responsive"}
 
 
