@@ -126,6 +126,10 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
+    - label: "Google Scholar"
+      icon: fab fa-fw fa-scholar
+      url: https://scholar.google.com/citations?user=jqDa_dAAAAAJ&hl=en
+
 
 # Site Footer
 footer:
