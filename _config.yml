@@ -128,10 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    #- label: "Google Scholar"
-     # icon: fab fa-fw fa-scholar
-      #url: https://scholar.google.com/citations?user=jqDa_dAAAAAJ&hl=en
-      googlescholar    : "https://scholar.google.com/citations?user=jqDa_dAAAAAJ&hl=en"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: https://scholar.google.com/citations?user=jqDa_dAAAAAJ&hl=en
 
 
 
