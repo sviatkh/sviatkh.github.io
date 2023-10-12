@@ -131,6 +131,8 @@ author:
     #- label: "Google Scholar"
      # icon: fab fa-fw fa-scholar
       #url: https://scholar.google.com/citations?user=jqDa_dAAAAAJ&hl=en
+      googlescholar    : "https://scholar.google.com/citations?user=jqDa_dAAAAAJ&hl=en"
+
 
 
 # Site Footer
