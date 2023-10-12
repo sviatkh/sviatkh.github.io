@@ -107,6 +107,8 @@ author:
   bio              : "Biochemist, passionate about bioinformatics."
   location         : "Ukraine"
   email            : sviatoslavkharuk@gmail.com
+  googlescholar    : "https://scholar.google.com/citations?user=jqDa_dAAAAAJ&hl=en"
+
   links:
     - label: "Email"
       icon: sviatoslavkharuk@gmail.com
@@ -126,9 +128,9 @@ author:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
-    - label: "Google Scholar"
-      icon: fab fa-fw fa-scholar
-      url: https://scholar.google.com/citations?user=jqDa_dAAAAAJ&hl=en
+    #- label: "Google Scholar"
+     # icon: fab fa-fw fa-scholar
+      #url: https://scholar.google.com/citations?user=jqDa_dAAAAAJ&hl=en
 
 
 # Site Footer
