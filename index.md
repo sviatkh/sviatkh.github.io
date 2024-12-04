@@ -72,6 +72,9 @@ To run the app click on [https://aminoacidcounter.streamlit.app/](https://aminoa
 
 
 ## Publications/Thesis
+Proliferation and differentiation of intestinal stem cells depends on the zinc finger transcription factor BCL11/Chronophage. Siamak Redhai*✉, Nick Hirschmüller*, Tianyu Wang, Shivohum Bahuguna, Svenja Leible, Stefan Peidli, Erica Valentini, **Sviatoslav Kharuk**, Michaela Holzem, Lea Bräckow, Fillip Port, David Ibberson, Wolfgang Huber✉, and Michael Boutros✉. bioRχiv, September 2024.
+PDF - DOI:10.1101/2024.09.08.611891 - Preprint - EuropePMC.
+
 Kharuk S., Shturmak A. *Study of intranasal delivery of peptides to the brain of mice (in Ukrainian)*. [92nd Scientific and Practical Conference of Students and Young Scientists with International Participation "Innovations in medicine and pharmacy", p. 19.](https://drive.google.com/drive/folders/1zSfoxwqkojo2uIWGn1w2Co5NgPunDLce) (March, 2023).
 
 Stefanyshyn N. P., Strilbytska O. M., Semaniuk, U.V., Burdyliuk N. I., Kharuk S. V. *Starvation during development affects metabolism in Drosophila*. BIOTECHNOLOGIA ACTA, V. 16, No 2, (2023)
